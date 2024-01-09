@@ -1,5 +1,7 @@
 # Connect-Four:
 
+![Description of the image](connect4.png)
+
 Recreated the classic Connect-Four game with fun and interactive players that you can compete with or just watch to see who wins with two checkers X and O. In this version of Connect-Four, you have an option go against a "Random" player, who is coded put random checkers in the board with no specific strategy. Or, you can go up against an "Artificial Intelligence" player who is coded to put a checker based on the future prediction looking ahead of it's next move to determine where it's best to put the checker with a high winning percentage. Or, you can just sit back and enjoy the competition between a "Random" player vs another "Random Player, AI against AI, etc. Or if you're just looking to have a fun time challenger your friend or AI, you can play against other as well!
 
 # Instructions:
