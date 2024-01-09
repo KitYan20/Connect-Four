@@ -77,7 +77,3 @@ class AIPlayer(Player):
         self.num_moves+=1
         return self.max_score_column(self.scores_for(b))
         
-if __name__ == '__main__':
-    p1 = Player('X')
-    p2 = AIPlayer('O','RIGHT',1)
-    connect_four(p1,p2)
